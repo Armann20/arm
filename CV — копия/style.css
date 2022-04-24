@@ -1,0 +1,162 @@
+*{
+	margin: 0;
+	padding:0;
+	list-style-type: none;
+	outline: none;
+	box-sizing: border-box;
+}
+.hr1{
+	color: #C0CAC7;
+	border:solid 2px;
+}
+.h1{
+ border-radius: 25px;
+  border: 2px solid #C0CAC7;
+  padding: 10px;  
+  width: 80px;
+  height: 40px; 
+  font-size: 15px; 
+  font-style: italic;
+  margin-bottom: 15px;
+  margin-left: 250px;
+  margin-top: 20px;
+}
+.h2{
+	font-family: 'Plus Jakarta Sans', sans-serif;
+
+}
+.h3{
+	color: #A7AFAC;
+	font-style: italic;
+	margin-top: 10px;
+}
+.p1{
+	width: 80%;
+	line-height: 25px;
+	margin-top: 10px;
+	color: #A7AFAC;
+}
+.h4{
+	color: #A7AFAC;
+	font-style: italic;
+	margin-top: 10px;
+}
+.dd{
+	margin-bottom: 100px;
+}
+.span1{
+	color: black;
+	font-style: normal;
+	font-size: 15px;
+	margin-left: 100px;
+}
+.parent{
+	  display: flex;
+  justify-content: space-evenly;
+
+}
+.parent1{
+	display: flex;
+	justify-content: space-between;
+	/*margin-bottom: 300px;*/
+
+}
+.div1{
+	margin-left: 260px;
+	margin-top: 50px;
+}
+.div2{
+	margin-right: 50px;
+	margin-top: 120px;
+}
+.img{
+	margin-top: 50px;
+	margin-right: 260px;
+	
+}
+.hr1{
+	color: #C0CAC7;
+	border:solid 2px;
+}
+.hr2{
+	width:68%;
+    margin:0 auto;
+    border:solid 1px;
+    color: #C0CAC7;
+}
+.vl{
+	border-left: 1px solid grey;
+	height:120px;
+	margin-left:  360px;
+	color: #C0CAC7;
+	margin-bottom: 50px;
+	
+}
+.h5{
+	font-family: 'Plus Jakarta Sans', sans-serif;
+	color: grey;
+	margin-left: 250px;
+	
+}
+.parent2{
+	display: flex;
+	justify-content: flex-start;
+	margin-top: 30px;
+	gap:20px;
+}
+.p2{
+	margin-left: 30px;
+}
+.span2{
+	margin-left: 400px;
+	font-style: normal;
+	font-weight: normal;
+	font-style: italic;
+	color: grey;
+
+}
+.span3{
+	margin-left: 625px;
+	font-style: normal;
+	font-weight: normal;
+	font-style: italic;
+	color: grey;
+}
+.span4{
+	margin-left: 670px;
+	font-style: normal;
+	font-weight: normal;
+	font-style: italic;
+	color: grey;
+}
+.span5{
+	margin-left: 500px;
+	font-style: normal;
+	font-weight: normal;
+	font-style: italic;
+	color: grey;
+}
+.jp{
+	display: flex;
+	justify-content: space-around;
+}
+.hr3{
+	width:68%;
+   margin:0 auto;
+    border:solid 1px;
+    color: #C0CAC7;
+}
+.parent3{
+	display: flex;
+	justify-content: flex-start;
+	margin-top: 30px;
+	gap:50px;
+}
+.p3{
+	color: grey;
+}
+.p4{
+	text-align: center;
+	color: grey;
+
+}
